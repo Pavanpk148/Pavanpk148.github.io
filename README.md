@@ -1,15 +1,15 @@
 # Pavanpk148.github.io
 
-##Projects
-###Project 1
+## Projects
+### Project 1
 - Description
 - Links
 
-###Project 2
+### Project 2
 - Description
 - Links
 
-#Education
+# Education
 - Some University
 
 # Work History
